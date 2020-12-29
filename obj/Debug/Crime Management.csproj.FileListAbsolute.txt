@@ -1,0 +1,5 @@
+G:\Project\Crime Management\Crime Management\bin\Crime Management.dll
+G:\Project\Crime Management\Crime Management\bin\Crime Management.pdb
+G:\Project\Crime Management\Crime Management\obj\Debug\Crime Management.dll
+G:\Project\Crime Management\Crime Management\obj\Debug\Crime Management.pdb
+G:\Project\Crime Management\Crime Management\obj\Debug\Crime Management.csprojResolveAssemblyReference.cache
